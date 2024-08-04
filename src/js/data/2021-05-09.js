@@ -32,72 +32,246 @@ dataSet[dataSetVersion].options = [
 dataSet[dataSetVersion].characterData = [
   {
     name: "You Wouldn't Be Laughing",
-    img: "UQuBtj9.jpg",
+    img: "3WpnX1T.jpg",
     opts: {
       series: ["hatemyfriends"],
     }
   },
   {
     name: "Lipstick Covered Magnet",
-    img: "CzcIMxF.png",
+    img: "3WpnX1T.jpg",
     opts: {
       series: ["hatemyfriends"],
     }
   },
   {
     name: "Lonely Eyes",
-    img: "UQuBtj9.jpg",
+    img: "3WpnX1T.jpg",
     opts: {
       series: ["hatemyfriends"],
     }
   },
   {
     name: "Taking My Uzi To the Gym",
-    img: "UQuBtj9.jpg",
+    img: "3WpnX1T.jpg",
     opts: {
       series: ["hatemyfriends"],
     }
   },
     {
       name: "Current Events",
-      img: "UQuBtj9.jpg",
+      img: "3WpnX1T.jpg",
       opts: {
         series: ["hatemyfriends"],
       }
     },
     {
       name: "Pale Beneath the Tan (SQUEEZE)",
-      img: "UQuBtj9.jpg",
+      img: "3WpnX1T.jpg",
       opts: {
         series: ["hatemyfriends"],
       }
     },
     {
       name: "Push-Ups",
-      img: "UQuBtj9.jpg",
+      img: "3WpnX1T.jpg",
       opts: {
         series: ["hatemyfriends"],
       }
     },
     {
       name: "Twelve Feet Deep",
-      img: "UQuBtj9.jpg",
+      img: "3WpnX1T.jpg",
       opts: {
         series: ["hatemyfriends"],
       }
     },
     {
       name: "Be Nice To Me",
-      img: "UQuBtj9.jpg",
+      img: "3WpnX1T.jpg",
       opts: {
         series: ["hatemyfriends"],
       }
     },{
       name: "If You're Happy",
-      img: "UQuBtj9.jpg",
+      img: "3WpnX1T.jpg",
       opts: {
         series: ["hatemyfriends"],
       }
     },
-  
+    {
+      name: "The Bass Is Too Loud",
+      img: "ZtH3Aq9.jpg",
+      opts: {
+        series: ["mgvp"],
+      }
+    },
+    {
+      name: "More Than It Hurts You",
+      img: "ZtH3Aq9.jpg",
+      opts: {
+        series: ["mgvp"],
+      }
+    },
+    {
+      name: "Flying Model Rockets",
+      img: "ZtH3Aq9.jpg",
+      opts: {
+        series: ["mgvp"],
+      }
+    },{
+      name: "Somebody Else",
+      img: "ZtH3Aq9.jpg",
+      opts: {
+        series: ["mgvp"],
+      }
+    },
+    {
+      name: "The Distance That I Fell",
+      img: "ZtH3Aq9.jpg",
+      opts: {
+        series: ["mgvp"],
+      }
+    },
+    {
+      name: "The Wrong Way",
+      img: "ZtH3Aq9.jpg",
+      opts: {
+        series: ["mgvp"],
+      }
+    },
+    {
+      name: "I Think Your Nose Is Bleeding",
+      img: "ZtH3Aq9.jpg",
+      opts: {
+        series: ["mgvp"],
+      }
+    },
+    {
+      name: "Christians vs. Indians",
+      img: "ZtH3Aq9.jpg",
+      opts: {
+        series: ["mgvp"],
+      }
+    },
+    {
+      name: "The Cops",
+      img: "ZtH3Aq9.jpg",
+      opts: {
+        series: ["mgvp"],
+      }
+    },
+    {
+      name: "The Supply of Power",
+      img: "ZtH3Aq9.jpg",
+      opts: {
+        series: ["mgvp"],
+      }
+    },
+    {
+      name: "Just As Big, Twice As Swollen",
+      img: "ZtH3Aq9.jpg",
+      opts: {
+        series: ["mgvp"],
+      }
+    },
+    {
+      name: "Silver Shinbone (Bucket Song)",
+      img: "ZtH3Aq9.jpg",
+      opts: {
+        series: ["mgvp"],
+      }
+    },
+    {
+      name: "So Sick, We're Dead",
+      img: "ZtH3Aq9.jpg",
+      opts: {
+        series: ["mgvp"],
+      }
+    },
+    {
+      name: "Flashlight",
+      img: "r1qSX0b.gif",
+      opts: {
+        series: ["tfb"],
+      }
+    },
+    {
+      name: "Maps",
+      img: "r1qSX0b.gif",
+      opts: {
+        series: ["tfb"],
+      }
+    },
+    {
+      name: "Looking Like You Just Woke Up",
+      img: "r1qSX0b.gif",
+      opts: {
+        series: ["tfb"],
+      }
+    },
+    {
+      name: "Mountain",
+      img: "r1qSX0b.gif",
+      opts: {
+        series: ["tfb"],
+      }
+    },
+    {
+      name: "Rhode Island",
+      img: "r1qSX0b.gif",
+      opts: {
+        series: ["tfb"],
+      }
+    },
+    {
+      name: "The Beers",
+      img: "r1qSX0b.gif",
+      opts: {
+        series: ["tfb"],
+      }
+    },
+    {
+      name: "Father",
+      img: "r1qSX0b.gif",
+      opts: {
+        series: ["tfb"],
+      }
+    },
+    {
+      name: "Swimming Pool",
+      img: "r1qSX0b.gif",
+      opts: {
+        series: ["tfb"],
+      }
+    },
+    {
+      name: "The Boredom Is The Reason I Started Swimming. It's Also The Reason I Started Sinking.",
+      img: "r1qSX0b.gif",
+      opts: {
+        series: ["tfb"],
+      }
+    },
+    {
+      name: "Bathtub",
+      img: "r1qSX0b.gif",
+      opts: {
+        series: ["tfb"],
+      }
+    },
+    {
+      name: "Legit Tattoo Gun",
+      img: "r1qSX0b.gif",
+      opts: {
+        series: ["tfb"],
+      }
+    },
+    {
+      name: "Hooped Earrings",
+      img: "r1qSX0b.gif",
+      opts: {
+        series: ["tfb"],
+      }
+    },
+    
 ];
