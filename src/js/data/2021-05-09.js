@@ -32,7 +32,7 @@ dataSet[dataSetVersion].options = [
 dataSet[dataSetVersion].characterData = [
   {
     name: "You Wouldn't Be Laughing",
-    img: "a/EX0Klga",
+    img: "UQuBtj9.jpg",
     opts: {
       series: ["hatemyfriends"],
     }
@@ -44,4 +44,60 @@ dataSet[dataSetVersion].characterData = [
       series: ["hatemyfriends"],
     }
   },
+  {
+    name: "Lonely Eyes",
+    img: "UQuBtj9.jpg",
+    opts: {
+      series: ["hatemyfriends"],
+    }
+  },
+  {
+    name: "Taking My Uzi To the Gym",
+    img: "UQuBtj9.jpg",
+    opts: {
+      series: ["hatemyfriends"],
+    }
+  },
+    {
+      name: "Current Events",
+      img: "UQuBtj9.jpg",
+      opts: {
+        series: ["hatemyfriends"],
+      }
+    },
+    {
+      name: "Pale Beneath the Tan (SQUEEZE)",
+      img: "UQuBtj9.jpg",
+      opts: {
+        series: ["hatemyfriends"],
+      }
+    },
+    {
+      name: "Push-Ups",
+      img: "UQuBtj9.jpg",
+      opts: {
+        series: ["hatemyfriends"],
+      }
+    },
+    {
+      name: "Twelve Feet Deep",
+      img: "UQuBtj9.jpg",
+      opts: {
+        series: ["hatemyfriends"],
+      }
+    },
+    {
+      name: "Be Nice To Me",
+      img: "UQuBtj9.jpg",
+      opts: {
+        series: ["hatemyfriends"],
+      }
+    },{
+      name: "If You're Happy",
+      img: "UQuBtj9.jpg",
+      opts: {
+        series: ["hatemyfriends"],
+      }
+    },
+  
 ];
