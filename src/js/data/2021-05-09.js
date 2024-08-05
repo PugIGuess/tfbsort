@@ -273,5 +273,604 @@ dataSet[dataSetVersion].characterData = [
         series: ["tfb"],
       }
     },
-    
+    {
+      name: "Au Revoir (Adios)",
+      img: "sO6p5yD.jpg",
+      opts: {
+        series: ["toth"],
+      }
+    },
+    {
+      name: "Skeleton",
+      img: "sO6p5yD.jpg",
+      opts: {
+        series: ["toth"],
+      }
+    },
+    {
+      name: "Swear to God The Devil Made Me Do It",
+      img: "sO6p5yD.jpg",
+      opts: {
+        series: ["toth"],
+      }
+    },
+    {
+      name: "Twin Size Mattress",
+      img: "sO6p5yD.jpg",
+      opts: {
+        series: ["toth"],
+      }
+    },
+    {
+      name: "Peach",
+      img: "sO6p5yD.jpg",
+      opts: {
+        series: ["toth"],
+      }
+    },
+    {
+      name: "Santa Monica",
+      img: "sO6p5yD.jpg",
+      opts: {
+        series: ["toth"],
+      }
+    },
+    {
+      name: "The Feud",
+      img: "sO6p5yD.jpg",
+      opts: {
+        series: ["toth"],
+      }
+    },
+    {
+      name: "Funny You Should Ask",
+      img: "sO6p5yD.jpg",
+      opts: {
+        series: ["toth"],
+      }
+    },
+    {
+      name: "Tattooed Tears",
+      img: "sO6p5yD.jpg",
+      opts: {
+        series: ["toth"],
+      }
+    },
+    {
+      name: "Lone Star",
+      img: "sO6p5yD.jpg",
+      opts: {
+        series: ["toth"],
+      }
+    },
+    {
+      name: "Backflip",
+      img: "sO6p5yD.jpg",
+      opts: {
+        series: ["toth"],
+      }
+    },{
+      name: "Everything I Own",
+      img: "sO6p5yD.jpg",
+      opts: {
+        series: ["toth"],
+      }
+    },
+    {
+      name: "Motorcycle",
+      img: "6Es0E7r.jpg",
+      opts: {
+        series: ["bot"],
+      }
+    },
+    {
+      name: "Summer Shandy",
+      img: "6Es0E7r.jpg",
+      opts: {
+        series: ["bot"],
+      }
+    },
+    {
+      name: "Cough It Out",
+      img: "6Es0E7r.jpg",
+      opts: {
+        series: ["bot"],
+      }
+    },
+    {
+      name: "HELP",
+      img: "6Es0E7r.jpg",
+      opts: {
+        series: ["bot"],
+      }
+    },
+    {
+      name: "Laugh Till I Cry",
+      img: "6Es0E7r.jpg",
+      opts: {
+        series: ["bot"],
+      }
+    },
+    {
+      name: "Historic Cemetery",
+      img: "6Es0E7r.jpg",
+      opts: {
+        series: ["bot"],
+      }
+    },{
+      name: "The Plan (Fuck Jobs)",
+      img: "6Es0E7r.jpg",
+      opts: {
+        series: ["bot"],
+      }
+    },
+    {
+      name: "Ginger",
+      img: "6Es0E7r.jpg",
+      opts: {
+        series: ["bot"],
+      }
+    },
+    {
+      name: "2YL",
+      img: "6Es0E7r.jpg",
+      opts: {
+        series: ["bot"],
+      }
+    },
+    {
+      name: "West Virginia",
+      img: "6Es0E7r.jpg",
+      opts: {
+        series: ["bot"],
+      }
+    },
+    {
+      name: "Plastic Flowers",
+      img: "6Es0E7r.jpg",
+      opts: {
+        series: ["bot"],
+      }
+    },
+    {
+      name: "You Used To Say (Holy Fuck)",
+      img: "FEeBk4h.jpg",
+      opts: {
+        series: ["gg"],
+      }
+    },
+    {
+      name: "Peace Sign",
+      img: "FEeBk4h.jpg",
+      opts: {
+        series: ["gg"],
+      }
+    },
+    {
+      name: "Bae",
+      img: "FEeBk4h.jpg",
+      opts: {
+        series: ["gg"],
+      }
+    },
+    {
+      name: "Vacation Town",
+      img: "FEeBk4h.jpg",
+      opts: {
+        series: ["gg"],
+      }
+    },
+    {
+      name: "Don't Fill up on Chips",
+      img: "FEeBk4h.jpg",
+      opts: {
+        series: ["gg"],
+      }
+    },
+    {
+      name: "Grand Finale",
+      img: "FEeBk4h.jpg",
+      opts: {
+        series: ["gg"],
+      }
+    },
+    {
+      name: "Trampoline",
+      img: "FEeBk4h.jpg",
+      opts: {
+        series: ["gg"],
+      }
+    },
+    {
+      name: "Raining",
+      img: "FEeBk4h.jpg",
+      opts: {
+        series: ["gg"],
+      }
+    },
+    {
+      name: "Far Drive",
+      img: "FEeBk4h.jpg",
+      opts: {
+        series: ["gg"],
+      }
+    },
+    {
+      name: "Everyone but You",
+      img: "FEeBk4h.jpg",
+      opts: {
+        series: ["gg"],
+      }
+    },
+    {
+      name: "Ocean",
+      img: "FEeBk4h.jpg",
+      opts: {
+        series: ["gg"],
+      }
+    },
+    {
+      name: "everyone blooms",
+      img: "uRECPwr.jpg",
+      opts: {
+        series: ["insickness"],
+      }
+    },
+    {
+      name: "Camouflage",
+      img: "uRECPwr.jpg",
+      opts: {
+        series: ["insickness"],
+      }
+    },
+    {
+      name: "jerk",
+      img: "uRECPwr.jpg",
+      opts: {
+        series: ["insickness"],
+      }
+    },
+    {
+      name: "the truth",
+      img: "uRECPwr.jpg",
+      opts: {
+        series: ["insickness"],
+      }
+    },
+    {
+      name: "montgomery forever",
+      img: "uRECPwr.jpg",
+      opts: {
+        series: ["insickness"],
+      }
+    },
+    {
+      name: "the hard way",
+      img: "uRECPwr.jpg",
+      opts: {
+        series: ["insickness"],
+      }
+    },
+    {
+      name: "leaf pile",
+      img: "uRECPwr.jpg",
+      opts: {
+        series: ["insickness"],
+      }
+    },
+    {
+      name: "new song d",
+      img: "uRECPwr.jpg",
+      opts: {
+        series: ["insickness"],
+      }
+    },
+    {
+      name: "Fairbanks, Alaska",
+      img: "uRECPwr.jpg",
+      opts: {
+        series: ["insickness"],
+      }
+    },
+    {
+      name: "love at first sight",
+      img: "uRECPwr.jpg",
+      opts: {
+        series: ["insickness"],
+      }
+    },
+    {
+      name: "bus beat",
+      img: "uRECPwr.jpg",
+      opts: {
+        series: ["insickness"],
+      }
+    },
+    {
+      name: "make way",
+      img: "uRECPwr.jpg",
+      opts: {
+        series: ["insickness"],
+      }
+    },
+    {
+      name: "Emotional",
+      img: "K3N3Xts.jpg",
+      opts: {
+        series: ["whoyouhangoutwith"],
+      }
+    },
+    {
+      name: "Outlook",
+      img: "K3N3Xts.jpg",
+      opts: {
+        series: ["whoyouhangoutwith"],
+      }
+    },
+    {
+      name: "Punching Bag",
+      img: "K3N3Xts.jpg",
+      opts: {
+        series: ["whoyouhangoutwith"],
+      }
+    },
+    {
+      name: "Clear Path",
+      img: "K3N3Xts.jpg",
+      opts: {
+        series: ["whoyouhangoutwith"],
+      }
+    },
+    {
+      name: "Not Joking",
+      img: "K3N3Xts.jpg",
+      opts: {
+        series: ["whoyouhangoutwith"],
+      }
+    },
+    {
+      name: "Paris",
+      img: "K3N3Xts.jpg",
+      opts: {
+        series: ["whoyouhangoutwith"],
+      }
+    },
+    {
+      name: "Fake Gold",
+      img: "K3N3Xts.jpg",
+      opts: {
+        series: ["whoyouhangoutwith"],
+      }
+    },
+    {
+      name: "Brick",
+      img: "K3N3Xts.jpg",
+      opts: {
+        series: ["whoyouhangoutwith"],
+      }
+    },
+    {
+      name: "Batman",
+      img: "K3N3Xts.jpg",
+      opts: {
+        series: ["whoyouhangoutwith"],
+      }
+    },
+    {
+      name: "Finding Your Way Home",
+      img: "K3N3Xts.jpg",
+      opts: {
+        series: ["whoyouhangoutwith"],
+      }
+    },
+    {
+      name: "Silver Shinbone (Bucket Song)",
+      img: "PUfAHjl.jpg",
+      opts: {
+        series: ["brothers"],
+      }
+    },
+    {
+      name: "Carry Me Down The Street",
+      img: "PUfAHjl.jpg",
+      opts: {
+        series: ["brothers"],
+      }
+    },
+    {
+      name: "I Wrote A Book",
+      img: "PUfAHjl.jpg",
+      opts: {
+        series: ["brothers"],
+      }
+    },
+    {
+      name: "Jim Bogart",
+      img: "PUfAHjl.jpg",
+      opts: {
+        series: ["brothers"],
+      }
+    },
+    {
+      name: "Molly",
+      img: "PUfAHjl.jpg",
+      opts: {
+        series: ["brothers"],
+      }
+    },
+    {
+      name: "Not Yet",
+      img: "PUfAHjl.jpg",
+      opts: {
+        series: ["brothers"],
+      }
+    },
+    {
+      name: "Somebody Else",
+      img: "PUfAHjl.jpg",
+      opts: {
+        series: ["brothers"],
+      }
+    },
+    {
+      name: "The Bells",
+      img: "PUfAHjl.jpg",
+      opts: {
+        series: ["brothers"],
+      }
+    },
+    {
+      name: "The Winds",
+      img: "PUfAHjl.jpg",
+      opts: {
+        series: ["brothers"],
+      }
+    },
+    {
+      name: "Flying Model Rockets",
+      img: "wQIEr1E.jpg",
+      opts: {
+        series: ["rose"],
+      }
+    },
+    {
+      name: "Lipstick Covered Magnet",
+      img: "wQIEr1E.jpg",
+      opts: {
+        series: ["rose"],
+      }
+    },
+    {
+      name: "12 Feet Deep",
+      img: "wQIEr1E.jpg",
+      opts: {
+        series: ["rose"],
+      }
+    },
+    {
+      name: "Jim Bogart",
+      img: "wQIEr1E.jpg",
+      opts: {
+        series: ["rose"],
+      }
+    },
+    {
+      name: "Be Nice To Me",
+      img: "wQIEr1E.jpg",
+      opts: {
+        series: ["rose"],
+      }
+    },
+    {
+      name: "Awkward Conversations",
+      img: "wQIEr1E.jpg",
+      opts: {
+        series: ["rose"],
+      }
+    },
+    {
+      name: "Wolfman",
+      img: "SLCPbIW.jpg",
+      opts: {
+        series: ["libertyandprosperity"],
+      }
+    },
+    {
+      name: "Handcuffs",
+      img: "SLCPbIW.jpg",
+      opts: {
+        series: ["libertyandprosperity"],
+      }
+    },
+    {
+      name: "Joanie",
+      img: "Wyyw1XK.jpg",
+      opts: {
+        series: ["needy"],
+      }
+    },
+    {
+      name: "Tighten Up",
+      img: "Wyyw1XK.jpg",
+      opts: {
+        series: ["needy"],
+      }
+    },
+    {
+      name: "Today Is Not Real",
+      img: "RkXILEn.jpg",
+      opts: {
+        series: ["ann"],
+      }
+    },
+    {
+      name: "Somebody Else",
+      img: "RkXILEn.jpg",
+      opts: {
+        series: ["ann"],
+      }
+    },
+    {
+      name: "I Think Your Nose Is Bleeding",
+      img: "RkXILEn.jpg",
+      opts: {
+        series: ["ann"],
+      }
+    },
+    {
+      name: "Pale Beneath the Tan (Squeeze)",
+      img: "RkXILEn.jpg",
+      opts: {
+        series: ["ann"],
+      }
+    },
+    {
+      name: "Lonely Eyes",
+      img: "RkXILEn.jpg",
+      opts: {
+        series: ["ann"],
+      }
+    },
+    {
+      name: "Tie Dye Dragon",
+      img: "RkXILEn.jpg",
+      opts: {
+        series: ["ann"],
+      }
+    },
+    {
+      name: "More Than It Hurts You",
+      img: "mj6GhRp.jpg",
+      opts: {
+        series: ["theresa"],
+      }
+    },
+    {
+      name: "The Bongo Song",
+      img: "mj6GhRp.jpg",
+      opts: {
+        series: ["theresa"],
+      }
+    },
+    {
+      name: "Hello World",
+      img: "mj6GhRp.jpg",
+      opts: {
+        series: ["theresa"],
+      }
+    },
+    {
+      name: "The Supply of Power",
+      img: "mj6GhRp.jpg",
+      opts: {
+        series: ["theresa"],
+      }
+    },
+    {
+      name: "The Winds",
+      img: "mj6GhRp.jpg",
+      opts: {
+        series: ["theresa"],
+      }
+    },
 ];
